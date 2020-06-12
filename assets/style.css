@@ -1,7 +1,15 @@
+/* Sets background image */
+/* body{
+    background: url(./background_img.jpg);
+    background-size: cover;
+    margin-left: 5%;
+    margin-right: 5%;
+    min-height: 100vh;
+} */
+
 .header{
     background-color: blueviolet;
     color: rgb(221, 210, 210);
     text-align: center;
     padding: 20px;
-
 }
