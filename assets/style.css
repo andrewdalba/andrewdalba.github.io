@@ -13,3 +13,14 @@ body{
     text-align: center;
     padding: 20px;
 }
+
+.clickableImg{
+    width: 100%;
+    height: 30vh;
+    object-fit: cover;
+}
+
+.clickableImg:hover{
+    cursor: pointer;
+    opacity: 70%;
+}
